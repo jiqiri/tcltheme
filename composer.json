@@ -27,6 +27,7 @@
       "Yannisme\\ConfixTheme\\": "src/"
     }
   },
+  "minimum-stability": "dev",
   "extra": {
     "flarum-extension": {
       "title": "Confix",
